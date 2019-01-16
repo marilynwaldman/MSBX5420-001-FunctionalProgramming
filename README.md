@@ -1,1 +1,1 @@
-# unstructuredNotebooks
+# Jupyter Notebooks demonstrating Functional Programming
